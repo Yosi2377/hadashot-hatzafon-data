@@ -1,8 +1,8 @@
 version=2
-sequence=21
-artifact=edition-20261111T151900Z-74aa91ec07c1.b64
-commit=b5062fcffcbf7c0b2831a169668a13b8a62ad6d5
-sha256=74aa91ec07c1e8b2ff3ed7d3a9dec654de7aaa696f73a63faabec4451ba0aaec
-bytes=1294764
-updatedAt=2026-11-11T15:19:00Z
-baseSha256=ad3f58a9d6cb70fc242eb4c220d4de0df865772ac38b196a3f6af51c4935beca
+sequence=22
+artifact=edition-20261111T152800Z-b363fdd5b029.b64
+commit=6adddd668d71829c123e62e06f95a69ad867c47d
+sha256=b363fdd5b029ee93db92f8a07f8751acb78fbbeae870297d517775542e717aae
+bytes=1294932
+updatedAt=2026-11-11T15:28:00Z
+baseSha256=74aa91ec07c1e8b2ff3ed7d3a9dec654de7aaa696f73a63faabec4451ba0aaec
